@@ -75,7 +75,7 @@ Challenge_Name/
 | Bell Fingerprint       | Easy       | 200 pts |
 | QKD Intercept          | Medium     | 300 pts |
 | Teleport Tampered      | Medium     | 350 pts |
-| Grover Vault           | Hard       | 450 pts |
+| Grover Vault           | Hard       | 500 pts |
 | Short Shatter          | Hard       | 600 pts |
 | Quantum Drift Protocol | Hard       | 700 pts |
 
