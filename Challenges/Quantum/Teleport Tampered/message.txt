@@ -1,0 +1,11 @@
+=== TELEPORT TAMPERED ===
+
+Classical bits received (tampered) : 01
+Bob's state after correction        : |ONE⟩
+
+Alice's state certificate (512 shots per basis):
+  Basis Z: {'0': 512, '1': 0}
+  Basis X: {'0': 264, '1': 248}
+  Basis Y: {'0': 266, '1': 246}
+
+Note: Exactly one classical bit was flipped in transit.

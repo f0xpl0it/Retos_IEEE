@@ -1,0 +1,22 @@
+=== GROVER VAULT ===
+
+Category: Quantum / Cryptography
+Difficulty: Hard | 500 pts
+
+The quantum vault uses a search oracle to
+authenticate the single valid access state among 16 possible ones.
+
+The circuit has been set up and is ready to run.
+The system already knows which state is correct.
+You do not.
+
+Attachment: grover_vault.py
+Dependencies: pip install qiskit qiskit-aer
+
+The state that the universe prefers is the key.
+Format: IEEE{XXXX}  
+
+Hint: The oracle speaks in X gates.
+      Where it flips before locking, the bit was 0.
+      Where it stays silent, the bit was 1.
+      4 bits, in the order q3q2q1q0

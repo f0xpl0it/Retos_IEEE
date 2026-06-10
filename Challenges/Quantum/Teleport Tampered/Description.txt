@@ -21,5 +21,5 @@ and obtained the following state:
 Recover the original state that Alice tried to teleport.
 Which qubit did Alice want Bob to have?
 
-Format: IEEE{NAME}
-Valid names: ZERO, ONE, PLUS, MINUS, IPLUS, IMINUS
+Format: IEEE{...}
+Valid names: uppercase only 
