@@ -1,7 +1,7 @@
 # 🚩 IEEE CS Flag Hunters EPN - Challenge Repository
 
 <div align="center">
-  <img src="https://hackmd.io/_uploads/S1-ipFm9Ze.png" width="40%">
+  <img src="https://hackmd.io/_uploads/S1-ipFm9Ze.png" width="30%">
   
   <br>
 
