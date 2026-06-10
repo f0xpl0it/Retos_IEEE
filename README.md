@@ -1,11 +1,11 @@
 # 🚩 IEEE CS Flag Hunters EPN - Challenge Repository
 
 <div align="center">
+  <img src="https://hackmd.io/_uploads/S1-ipFm9Ze.png" width="20%">
+  
+  <br>
 
-![IEEE CS Flag Hunters EPN](https://hackmd.io/_uploads/S1-ipFm9Ze.png)
-
-**Official Challenge Repository**
-
+  <strong>Official Challenge Repository</strong>
 </div>
 
 ---
@@ -109,7 +109,11 @@ This repository is intended for:
 
 ## 📜 License
 
-Unless otherwise specified, all challenge materials are provided for educational and non-commercial use.
+This repository is distributed under the **IEEE CS Flag Hunters EPN Challenge License**.
+
+Educational and non-commercial use is permitted with proper attribution.
+
+See the [LICENSE](LICENSE) file for the complete terms and conditions.
 
 ---
 
