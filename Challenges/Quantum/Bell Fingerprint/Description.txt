@@ -1,0 +1,20 @@
+=== BELL FINGERPRINT ===
+
+Category: Quantum / Cryptography
+Difficulty: Easy | 100 pts
+
+A quantum system transmits 8 entangled qubits.
+Each qubit was prepared in one of the 4 Bell states.
+The channel introduces noise < 5%.
+
+Two measurement files are attached:
+  zbasis_measurements.txt  — computational basis
+  xbasis_measurements.txt  — dual basis
+
+Identify which state was used in each transmission.
+
+Note: Not all states are distinguishable from a single basis.
+
+Format: IEEE{XXXXXXXXXXXXXXXX}
+         (16 bits, 2 bits per transmission, order 0→7)
+         Φ⁺=00  Φ⁻=01  Ψ⁺=10  Ψ⁻=11

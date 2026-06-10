@@ -1,0 +1,11 @@
+=== Kyber? Maybe. ===
+
+Category: Cryptography
+
+Difficulty: Insane | 900 pts
+
+The documentation claims that the system is resistant to quantum attacks.
+
+The documentation also makes many other claims.
+
+Format: IEEE{...}.}

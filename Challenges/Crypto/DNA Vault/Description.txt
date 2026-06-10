@@ -1,0 +1,11 @@
+=== DNA Vault ===
+Category: Cryptography / Bioinformatics
+Difficulty: Insane | 1000 pts
+
+You intercepted the `vault.dna` file from a compromised server.
+The format is unknown. The contents are as well.
+
+"Proportion never lies.
+Nor does the sequence forget."
+
+Format: IEEE{...}

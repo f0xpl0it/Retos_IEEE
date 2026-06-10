@@ -1,0 +1,21 @@
+=== QKD INTERCEPT ===
+
+Category: Quantum / Cryptography
+Difficulty: Medium | 300 pts
+
+A BB84 session was recorded in its entirety.
+Alice and Bob reached a key agreement.
+But something was wrong with the channel.
+
+The log includes all rounds—
+those discarded due to incompatible bases and those that counted.
+
+Someone was eavesdropping.
+Not all the time. Just at certain moments.
+The quantum channel doesn’t lie if you know where to look.
+
+Attachment: bb84_session.csv
+
+Format: IEEE{start1_start2_start3}
+         (start indices of compromised windows,
+          in sifted rounds, window = 20, QBER threshold = 11%)

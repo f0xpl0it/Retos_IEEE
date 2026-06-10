@@ -1,0 +1,13 @@
+Category: Cryptography
+Difficulty: Hard | 450 points
+
+Three researchers used different implementations of the same cryptographic system.
+
+Three messages were encrypted.
+Three keys were generated.
+
+However, the internal report concludes that they all made the same mistake.
+
+The right mathematical tools should reveal the truth.
+
+Format: IEEE{...}

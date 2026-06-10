@@ -1,0 +1,10 @@
+=== Eight Commands ===
+
+Category: Cryptography
+Difficulty: Easy | 100 pts
+
+The first result isn't the final one.
+
+Just another layer of the same system.
+
+Format: IEEE{...}

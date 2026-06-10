@@ -1,0 +1,13 @@
+=== Deep Space Beacon ===
+
+Category: Cryptography / Space
+Difficulty: Hard | 500 pts
+
+An experimental probe transmitted a final beacon before losing contact.
+
+The signal appears to be valid.
+The message, however, is not.
+
+Engineers believe the transmission can still be recovered.
+
+Format: IEEE{...}

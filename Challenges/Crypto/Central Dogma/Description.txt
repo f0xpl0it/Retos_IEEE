@@ -1,0 +1,14 @@
+=== Central Dogma ===
+
+Category: Cryptography / Bioinformatics
+Difficulty: Medium | 300 pts
+
+You intercepted a genetic sequence stored on a compromised research server.
+
+Scientists claim that the original information never disappeared; it was simply transformed.
+
+"Every organism has a reflex.
+
+And every sequence remembers where it came from."
+
+Format: IEEE{...}

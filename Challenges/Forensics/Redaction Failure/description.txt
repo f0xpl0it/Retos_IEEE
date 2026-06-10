@@ -1,0 +1,8 @@
+=== Redaction Failure ===
+
+Category: Forensics
+Difficulty: Easy | 100 pts
+
+Ink can hide words.
+
+Format: IEEE{...}

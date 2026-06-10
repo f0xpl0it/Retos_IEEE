@@ -1,0 +1,25 @@
+=== TELEPORT TAMPERED ===
+
+Category: Quantum / Cryptography
+Difficulty: Medium | 350 pts
+
+Alice prepared a secret quantum state.
+She attempted to teleport it to Bob using the standard protocol.
+
+The quantum channel worked perfectly.
+The Bell pair was prepared without errors.
+
+But the classical channel was intercepted.
+Exactly one of the two correction bits was altered.
+
+Bob applied his correction using the bits he received
+and obtained the following state:
+
+  Classical bits received : 10
+  Bob's state             : |MINUS⟩
+
+Recover the original state that Alice tried to teleport.
+Which qubit did Alice want Bob to have?
+
+Format: IEEE{NAME}
+Valid names: ZERO, ONE, PLUS, MINUS, IPLUS, IMINUS

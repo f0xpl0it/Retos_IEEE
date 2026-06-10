@@ -1,0 +1,16 @@
+=== Quantum Drift Protocol: Noisy Collapse ===
+
+Category: Quantum / Cryptography  
+Difficulty: Hard | 700 pts  
+
+The channel is not symmetric.
+
+Some states tend to stabilize more than others during measurement.
+
+The observer only sees collapses, not preparations.
+
+But the statistics are not neutral.
+
+HINT: Some superpositions seem to favor one outcome.
+
+Format: IEEE{...}
