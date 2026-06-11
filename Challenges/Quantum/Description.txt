@@ -1,0 +1,21 @@
+=== SHOR SHATTER ===
+
+Category  : Quantum / Cryptography
+Difficulty: Insane | 800 pts
+
+N = 47053
+
+The QPU ran period-finding three times with different values of a,
+before failing during classical post-processing.
+
+=== QPU PERIOD-FINDING RESULTS ===
+
+Run 1:  a = 22505   r = 7770
+Run 2:  a = 38392   r = 555
+Run 3:  a = 12      r = 1554
+
+Complete the classical post-processing of Shor's algorithm.
+Not all pairs produce useful factors.
+
+Format : IEEE{p_q}
+         where p < q are the prime factors of N

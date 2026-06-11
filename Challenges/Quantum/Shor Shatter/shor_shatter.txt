@@ -1,0 +1,14 @@
+=== QPU PERIOD-FINDING RESULTS ===
+
+Run 1:
+  a = 22505
+  r = 7770    # smallest r > 0 such that a^r == 1 (mod N)
+
+Run 2:
+  a = 38392
+  r = 555    # smallest r > 0 such that a^r == 1 (mod N)
+
+Run 3:
+  a = 12
+  r = 1554    # smallest r > 0 such that a^r == 1 (mod N)
+
