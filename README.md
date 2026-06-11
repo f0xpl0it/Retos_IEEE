@@ -76,8 +76,8 @@ Challenge_Name/
 | QKD Intercept          | Medium     | 300 pts |
 | Teleport Tampered      | Medium     | 350 pts |
 | Grover Vault           | Hard       | 500 pts |
-| Short Shatter          | Hard       | 600 pts |
 | Quantum Drift Protocol | Hard       | 700 pts |
+| Short Shatter          | Insane     | 900 pts |
 
 ### 🕵️ Forensics
 
